@@ -1,0 +1,501 @@
+Age,Frequency,TimeOfDay,SafetyPerception,IncidentExperience,SecurityMeasures,OverallSatisfaction
+39,Monthly,Afternoon,Very Safe,No,Adequate,Satisfied
+22,Daily,Morning,Very Unsafe,No,Inadequate,Dissatisfied
+39,Weekly,Morning,Very Safe,No,Adequate,Dissatisfied
+49,Monthly,Night,Very Safe,No,Adequate,Neutral
+45,Weekly,Evening,Safe,No,Inadequate,Dissatisfied
+28,Rarely,Evening,Very Safe,No,Adequate,Dissatisfied
+32,Daily,Afternoon,Unsafe,No,Adequate,Satisfied
+29,Weekly,Evening,Very Safe,No,Adequate,Neutral
+25,Daily,Night,Very Safe,No,Adequate,Satisfied
+18,Monthly,Morning,Safe,No,Adequate,Satisfied
+43,Weekly,Afternoon,Very Unsafe,No,Inadequate,Neutral
+32,Monthly,Night,Unsafe,No,Inadequate,Satisfied
+42,Rarely,Evening,Safe,Yes,Inadequate,Satisfied
+41,Weekly,Morning,Safe,No,Inadequate,Neutral
+53,Weekly,Evening,Very Unsafe,No,Inadequate,Satisfied
+45,Daily,Night,Safe,No,Adequate,Neutral
+22,Rarely,Night,Very Unsafe,No,Inadequate,Satisfied
+58,Weekly,Night,Very Unsafe,No,Inadequate,Satisfied
+34,Monthly,Night,Very Safe,No,Adequate,Satisfied
+20,Monthly,Evening,Unsafe,Yes,Inadequate,Satisfied
+53,Monthly,Morning,Safe,No,Adequate,Dissatisfied
+31,Monthly,Evening,Unsafe,No,Inadequate,Neutral
+53,Daily,Evening,Very Unsafe,No,Adequate,Satisfied
+49,Monthly,Night,Unsafe,No,Inadequate,Dissatisfied
+35,Daily,Night,Very Unsafe,Yes,Inadequate,Dissatisfied
+42,Rarely,Evening,Neutral,No,Adequate,Dissatisfied
+33,Weekly,Evening,Very Safe,No,Inadequate,Neutral
+19,Daily,Evening,Neutral,No,Inadequate,Neutral
+29,Monthly,Night,Safe,No,Adequate,Dissatisfied
+35,Daily,Morning,Safe,No,Adequate,Neutral
+27,Monthly,Night,Very Safe,No,Inadequate,Dissatisfied
+22,Weekly,Morning,Very Safe,No,Adequate,Neutral
+24,Weekly,Morning,Unsafe,No,Adequate,Dissatisfied
+28,Daily,Morning,Neutral,No,Inadequate,Dissatisfied
+40,Rarely,Evening,Unsafe,No,Adequate,Neutral
+56,Rarely,Night,Neutral,No,Inadequate,Satisfied
+48,Rarely,Morning,Safe,No,Adequate,Neutral
+30,Rarely,Night,Very Safe,No,Adequate,Neutral
+54,Weekly,Evening,Unsafe,No,Inadequate,Neutral
+34,Rarely,Night,Safe,Yes,Inadequate,Dissatisfied
+28,Monthly,Afternoon,Unsafe,No,Inadequate,Dissatisfied
+46,Daily,Night,Unsafe,No,Inadequate,Dissatisfied
+22,Rarely,Evening,Unsafe,No,Adequate,Dissatisfied
+51,Weekly,Night,Safe,No,Inadequate,Satisfied
+50,Weekly,Afternoon,Very Unsafe,No,Adequate,Dissatisfied
+25,Monthly,Afternoon,Safe,No,Adequate,Dissatisfied
+44,Monthly,Afternoon,Unsafe,Yes,Adequate,Dissatisfied
+29,Rarely,Morning,Very Safe,No,Adequate,Neutral
+45,Weekly,Morning,Unsafe,No,Adequate,Neutral
+23,Monthly,Night,Safe,No,Inadequate,Satisfied
+56,Monthly,Evening,Safe,No,Inadequate,Dissatisfied
+37,Monthly,Afternoon,Unsafe,No,Inadequate,Neutral
+27,Monthly,Morning,Unsafe,No,Adequate,Neutral
+54,Rarely,Evening,Neutral,No,Inadequate,Satisfied
+42,Rarely,Morning,Unsafe,Yes,Inadequate,Satisfied
+29,Rarely,Morning,Unsafe,Yes,Inadequate,Satisfied
+21,Rarely,Afternoon,Very Unsafe,No,Inadequate,Satisfied
+58,Weekly,Afternoon,Unsafe,No,Adequate,Neutral
+45,Monthly,Morning,Neutral,No,Adequate,Dissatisfied
+43,Weekly,Evening,Very Safe,No,Inadequate,Neutral
+21,Daily,Morning,Safe,Yes,Adequate,Satisfied
+32,Monthly,Morning,Very Unsafe,No,Inadequate,Satisfied
+59,Daily,Night,Safe,Yes,Inadequate,Dissatisfied
+47,Monthly,Evening,Neutral,Yes,Adequate,Neutral
+23,Rarely,Afternoon,Safe,No,Inadequate,Neutral
+50,Weekly,Night,Safe,No,Adequate,Dissatisfied
+22,Weekly,Night,Very Unsafe,No,Inadequate,Dissatisfied
+47,Monthly,Night,Very Unsafe,Yes,Inadequate,Dissatisfied
+24,Weekly,Afternoon,Unsafe,No,Adequate,Satisfied
+54,Rarely,Morning,Safe,Yes,Adequate,Neutral
+40,Monthly,Morning,Neutral,No,Adequate,Dissatisfied
+44,Rarely,Afternoon,Very Safe,No,Inadequate,Dissatisfied
+49,Rarely,Morning,Very Safe,No,Inadequate,Neutral
+42,Monthly,Evening,Unsafe,No,Adequate,Satisfied
+44,Daily,Evening,Neutral,No,Inadequate,Neutral
+37,Weekly,Afternoon,Neutral,No,Inadequate,Dissatisfied
+31,Monthly,Evening,Very Safe,No,Adequate,Dissatisfied
+46,Monthly,Morning,Neutral,No,Inadequate,Satisfied
+46,Weekly,Morning,Neutral,No,Adequate,Neutral
+53,Daily,Afternoon,Unsafe,No,Inadequate,Dissatisfied
+59,Monthly,Afternoon,Neutral,Yes,Inadequate,Satisfied
+44,Daily,Morning,Neutral,No,Adequate,Neutral
+26,Daily,Afternoon,Neutral,No,Inadequate,Neutral
+55,Daily,Morning,Unsafe,No,Adequate,Dissatisfied
+18,Daily,Afternoon,Safe,Yes,Adequate,Dissatisfied
+35,Monthly,Morning,Very Unsafe,No,Inadequate,Satisfied
+21,Daily,Evening,Safe,Yes,Inadequate,Satisfied
+54,Daily,Afternoon,Very Safe,No,Inadequate,Neutral
+18,Monthly,Night,Safe,No,Inadequate,Neutral
+51,Rarely,Evening,Very Unsafe,No,Inadequate,Dissatisfied
+25,Weekly,Night,Safe,No,Inadequate,Neutral
+26,Weekly,Morning,Very Unsafe,No,Inadequate,Dissatisfied
+50,Rarely,Afternoon,Safe,No,Adequate,Dissatisfied
+20,Monthly,Evening,Unsafe,No,Inadequate,Satisfied
+53,Monthly,Evening,Safe,No,Inadequate,Satisfied
+59,Rarely,Afternoon,Very Unsafe,No,Inadequate,Dissatisfied
+26,Daily,Morning,Very Safe,No,Adequate,Satisfied
+59,Monthly,Afternoon,Neutral,No,Inadequate,Neutral
+37,Rarely,Evening,Very Safe,No,Adequate,Dissatisfied
+59,Daily,Evening,Unsafe,No,Inadequate,Dissatisfied
+39,Rarely,Afternoon,Neutral,No,Adequate,Neutral
+55,Weekly,Night,Very Safe,Yes,Inadequate,Dissatisfied
+25,Weekly,Night,Very Safe,No,Inadequate,Dissatisfied
+51,Daily,Night,Very Unsafe,No,Inadequate,Neutral
+54,Monthly,Afternoon,Very Safe,No,Adequate,Satisfied
+40,Rarely,Afternoon,Very Safe,No,Adequate,Satisfied
+30,Monthly,Afternoon,Safe,Yes,Inadequate,Satisfied
+44,Weekly,Morning,Very Unsafe,No,Inadequate,Satisfied
+53,Weekly,Evening,Safe,Yes,Adequate,Neutral
+56,Daily,Night,Unsafe,No,Inadequate,Dissatisfied
+23,Rarely,Evening,Unsafe,Yes,Adequate,Satisfied
+52,Daily,Night,Unsafe,No,Adequate,Dissatisfied
+43,Daily,Evening,Very Unsafe,No,Adequate,Dissatisfied
+30,Weekly,Night,Safe,No,Inadequate,Satisfied
+32,Daily,Night,Safe,No,Adequate,Neutral
+56,Weekly,Night,Neutral,No,Inadequate,Dissatisfied
+18,Monthly,Afternoon,Unsafe,No,Inadequate,Dissatisfied
+34,Monthly,Afternoon,Very Safe,No,Inadequate,Satisfied
+33,Rarely,Night,Very Unsafe,Yes,Adequate,Satisfied
+53,Monthly,Night,Unsafe,No,Inadequate,Dissatisfied
+44,Rarely,Afternoon,Unsafe,Yes,Adequate,Satisfied
+52,Weekly,Afternoon,Unsafe,No,Adequate,Neutral
+55,Daily,Afternoon,Safe,No,Inadequate,Neutral
+53,Weekly,Evening,Unsafe,No,Adequate,Neutral
+18,Weekly,Morning,Very Unsafe,No,Inadequate,Neutral
+48,Monthly,Night,Safe,No,Inadequate,Dissatisfied
+24,Monthly,Morning,Neutral,No,Adequate,Dissatisfied
+36,Rarely,Morning,Very Unsafe,No,Adequate,Neutral
+47,Rarely,Afternoon,Neutral,No,Adequate,Neutral
+36,Daily,Evening,Neutral,No,Inadequate,Neutral
+20,Rarely,Afternoon,Safe,No,Inadequate,Dissatisfied
+35,Monthly,Evening,Very Unsafe,No,Adequate,Neutral
+21,Daily,Night,Very Unsafe,No,Adequate,Neutral
+38,Rarely,Morning,Unsafe,No,Inadequate,Neutral
+57,Rarely,Night,Very Unsafe,No,Inadequate,Dissatisfied
+56,Monthly,Afternoon,Unsafe,No,Inadequate,Neutral
+37,Rarely,Afternoon,Unsafe,No,Adequate,Neutral
+59,Rarely,Night,Very Safe,No,Inadequate,Neutral
+46,Weekly,Night,Very Safe,No,Inadequate,Neutral
+34,Daily,Morning,Very Safe,No,Adequate,Neutral
+35,Weekly,Night,Safe,No,Inadequate,Satisfied
+25,Daily,Night,Unsafe,No,Inadequate,Neutral
+20,Rarely,Morning,Very Safe,No,Inadequate,Satisfied
+22,Rarely,Morning,Neutral,Yes,Adequate,Satisfied
+41,Daily,Night,Neutral,No,Adequate,Satisfied
+22,Rarely,Evening,Neutral,No,Inadequate,Neutral
+49,Rarely,Afternoon,Very Safe,No,Inadequate,Dissatisfied
+26,Weekly,Night,Very Unsafe,No,Adequate,Neutral
+30,Weekly,Night,Unsafe,No,Inadequate,Neutral
+39,Daily,Night,Safe,Yes,Adequate,Dissatisfied
+37,Daily,Morning,Safe,No,Adequate,Dissatisfied
+30,Monthly,Morning,Safe,No,Adequate,Neutral
+49,Daily,Evening,Neutral,No,Inadequate,Satisfied
+52,Weekly,Night,Safe,No,Inadequate,Neutral
+22,Monthly,Night,Neutral,No,Adequate,Dissatisfied
+25,Rarely,Afternoon,Very Safe,No,Adequate,Neutral
+58,Rarely,Afternoon,Very Safe,No,Inadequate,Satisfied
+34,Daily,Afternoon,Unsafe,Yes,Adequate,Neutral
+23,Monthly,Morning,Neutral,No,Inadequate,Dissatisfied
+42,Monthly,Night,Very Unsafe,No,Inadequate,Dissatisfied
+21,Daily,Afternoon,Very Safe,No,Adequate,Satisfied
+57,Weekly,Evening,Unsafe,No,Inadequate,Dissatisfied
+40,Monthly,Evening,Unsafe,No,Inadequate,Dissatisfied
+24,Monthly,Night,Unsafe,No,Adequate,Neutral
+29,Monthly,Afternoon,Neutral,No,Adequate,Dissatisfied
+56,Weekly,Night,Safe,Yes,Inadequate,Neutral
+48,Rarely,Night,Neutral,No,Inadequate,Neutral
+53,Rarely,Evening,Very Safe,No,Inadequate,Neutral
+43,Weekly,Afternoon,Very Safe,No,Adequate,Satisfied
+52,Daily,Night,Neutral,No,Adequate,Neutral
+52,Daily,Night,Unsafe,No,Inadequate,Dissatisfied
+26,Daily,Afternoon,Neutral,No,Inadequate,Dissatisfied
+36,Weekly,Evening,Very Safe,No,Inadequate,Neutral
+57,Rarely,Morning,Safe,No,Inadequate,Satisfied
+50,Rarely,Morning,Unsafe,No,Inadequate,Dissatisfied
+24,Monthly,Evening,Unsafe,No,Inadequate,Dissatisfied
+33,Rarely,Morning,Neutral,No,Adequate,Dissatisfied
+20,Weekly,Night,Very Safe,No,Adequate,Dissatisfied
+23,Rarely,Afternoon,Very Unsafe,No,Adequate,Neutral
+58,Monthly,Evening,Neutral,Yes,Inadequate,Neutral
+29,Daily,Evening,Unsafe,No,Adequate,Dissatisfied
+34,Rarely,Evening,Safe,No,Adequate,Dissatisfied
+48,Daily,Evening,Unsafe,No,Inadequate,Satisfied
+21,Weekly,Afternoon,Unsafe,No,Inadequate,Neutral
+36,Weekly,Night,Very Safe,Yes,Inadequate,Satisfied
+55,Monthly,Evening,Unsafe,No,Adequate,Satisfied
+36,Weekly,Evening,Very Safe,No,Adequate,Dissatisfied
+41,Monthly,Evening,Safe,No,Adequate,Dissatisfied
+38,Monthly,Night,Neutral,No,Adequate,Dissatisfied
+29,Rarely,Morning,Safe,Yes,Adequate,Neutral
+21,Monthly,Evening,Neutral,No,Inadequate,Satisfied
+32,Rarely,Morning,Neutral,No,Inadequate,Dissatisfied
+32,Rarely,Morning,Neutral,No,Inadequate,Satisfied
+24,Monthly,Morning,Very Safe,No,Adequate,Neutral
+42,Monthly,Afternoon,Very Safe,No,Adequate,Dissatisfied
+40,Monthly,Night,Safe,No,Inadequate,Satisfied
+32,Daily,Evening,Very Safe,No,Adequate,Dissatisfied
+59,Daily,Evening,Very Safe,No,Inadequate,Neutral
+54,Daily,Afternoon,Safe,No,Adequate,Satisfied
+21,Weekly,Morning,Very Safe,No,Adequate,Neutral
+31,Monthly,Evening,Very Safe,No,Adequate,Dissatisfied
+41,Weekly,Afternoon,Unsafe,No,Inadequate,Satisfied
+43,Weekly,Night,Very Unsafe,Yes,Adequate,Dissatisfied
+53,Daily,Evening,Safe,No,Inadequate,Dissatisfied
+37,Rarely,Evening,Very Safe,No,Adequate,Satisfied
+37,Monthly,Afternoon,Safe,No,Inadequate,Dissatisfied
+40,Rarely,Evening,Very Safe,No,Inadequate,Neutral
+21,Monthly,Night,Unsafe,No,Inadequate,Satisfied
+20,Rarely,Morning,Very Unsafe,No,Inadequate,Dissatisfied
+59,Daily,Afternoon,Very Safe,No,Inadequate,Dissatisfied
+38,Monthly,Evening,Very Unsafe,No,Inadequate,Dissatisfied
+18,Weekly,Night,Safe,No,Inadequate,Satisfied
+28,Weekly,Morning,Very Safe,No,Adequate,Satisfied
+30,Rarely,Night,Very Unsafe,Yes,Adequate,Dissatisfied
+31,Daily,Morning,Safe,No,Adequate,Neutral
+26,Monthly,Morning,Safe,No,Inadequate,Dissatisfied
+38,Monthly,Afternoon,Neutral,No,Adequate,Dissatisfied
+26,Monthly,Morning,Safe,No,Adequate,Dissatisfied
+49,Rarely,Afternoon,Very Safe,No,Inadequate,Neutral
+35,Monthly,Afternoon,Very Safe,No,Inadequate,Neutral
+42,Weekly,Night,Unsafe,No,Adequate,Neutral
+33,Weekly,Night,Unsafe,No,Adequate,Satisfied
+51,Weekly,Evening,Safe,No,Inadequate,Neutral
+27,Monthly,Afternoon,Unsafe,No,Inadequate,Satisfied
+56,Daily,Morning,Unsafe,Yes,Inadequate,Dissatisfied
+35,Rarely,Morning,Safe,No,Adequate,Dissatisfied
+45,Weekly,Afternoon,Unsafe,No,Adequate,Neutral
+52,Daily,Evening,Very Unsafe,No,Inadequate,Neutral
+41,Daily,Morning,Neutral,Yes,Inadequate,Neutral
+33,Monthly,Morning,Very Safe,No,Adequate,Satisfied
+47,Monthly,Night,Neutral,No,Inadequate,Dissatisfied
+37,Daily,Evening,Safe,No,Inadequate,Dissatisfied
+33,Weekly,Night,Very Unsafe,No,Adequate,Satisfied
+49,Daily,Evening,Neutral,Yes,Adequate,Dissatisfied
+23,Weekly,Evening,Neutral,No,Inadequate,Neutral
+56,Monthly,Afternoon,Very Unsafe,No,Adequate,Satisfied
+37,Rarely,Night,Safe,No,Inadequate,Satisfied
+35,Monthly,Afternoon,Safe,No,Inadequate,Satisfied
+26,Daily,Afternoon,Safe,No,Adequate,Satisfied
+36,Weekly,Night,Safe,No,Adequate,Dissatisfied
+40,Weekly,Evening,Unsafe,No,Inadequate,Dissatisfied
+31,Monthly,Morning,Safe,No,Adequate,Satisfied
+48,Monthly,Evening,Unsafe,No,Inadequate,Neutral
+20,Monthly,Morning,Safe,No,Adequate,Dissatisfied
+42,Rarely,Evening,Neutral,No,Inadequate,Dissatisfied
+21,Rarely,Morning,Very Unsafe,No,Inadequate,Neutral
+31,Weekly,Evening,Very Unsafe,No,Inadequate,Neutral
+43,Rarely,Night,Safe,No,Adequate,Dissatisfied
+36,Daily,Afternoon,Safe,No,Inadequate,Satisfied
+57,Monthly,Morning,Neutral,No,Adequate,Dissatisfied
+18,Daily,Morning,Safe,No,Inadequate,Satisfied
+46,Daily,Morning,Very Unsafe,No,Inadequate,Dissatisfied
+28,Monthly,Afternoon,Unsafe,No,Inadequate,Neutral
+34,Monthly,Evening,Unsafe,No,Inadequate,Dissatisfied
+51,Monthly,Night,Safe,No,Adequate,Neutral
+44,Rarely,Night,Neutral,No,Adequate,Dissatisfied
+45,Daily,Evening,Neutral,No,Adequate,Dissatisfied
+32,Daily,Night,Safe,No,Adequate,Satisfied
+50,Monthly,Morning,Very Safe,No,Inadequate,Neutral
+48,Weekly,Night,Very Unsafe,No,Adequate,Neutral
+51,Daily,Evening,Safe,No,Inadequate,Dissatisfied
+36,Weekly,Evening,Unsafe,No,Inadequate,Satisfied
+53,Weekly,Evening,Neutral,No,Adequate,Neutral
+42,Monthly,Night,Unsafe,Yes,Inadequate,Dissatisfied
+34,Monthly,Morning,Unsafe,No,Adequate,Dissatisfied
+35,Monthly,Afternoon,Neutral,No,Inadequate,Neutral
+58,Weekly,Evening,Neutral,No,Adequate,Satisfied
+41,Daily,Morning,Very Safe,No,Adequate,Satisfied
+32,Monthly,Afternoon,Very Unsafe,No,Inadequate,Dissatisfied
+53,Weekly,Afternoon,Very Unsafe,No,Inadequate,Neutral
+34,Daily,Night,Safe,No,Inadequate,Dissatisfied
+47,Daily,Night,Very Safe,No,Adequate,Satisfied
+37,Rarely,Afternoon,Unsafe,No,Inadequate,Dissatisfied
+38,Monthly,Afternoon,Very Unsafe,Yes,Adequate,Neutral
+47,Daily,Evening,Very Unsafe,No,Adequate,Dissatisfied
+28,Monthly,Afternoon,Very Unsafe,Yes,Inadequate,Neutral
+52,Weekly,Evening,Very Safe,No,Inadequate,Dissatisfied
+41,Monthly,Night,Safe,No,Adequate,Dissatisfied
+47,Daily,Night,Safe,No,Inadequate,Dissatisfied
+19,Weekly,Morning,Very Safe,Yes,Adequate,Satisfied
+28,Monthly,Morning,Very Safe,No,Inadequate,Dissatisfied
+50,Monthly,Night,Unsafe,No,Inadequate,Neutral
+44,Monthly,Afternoon,Unsafe,No,Adequate,Satisfied
+28,Daily,Evening,Very Safe,No,Adequate,Satisfied
+44,Daily,Afternoon,Very Unsafe,Yes,Inadequate,Satisfied
+36,Monthly,Night,Very Unsafe,No,Adequate,Neutral
+26,Rarely,Evening,Very Safe,No,Inadequate,Neutral
+37,Daily,Night,Very Unsafe,No,Inadequate,Satisfied
+40,Daily,Afternoon,Safe,No,Adequate,Neutral
+33,Monthly,Night,Safe,No,Inadequate,Satisfied
+36,Weekly,Morning,Unsafe,No,Inadequate,Satisfied
+19,Monthly,Morning,Neutral,No,Inadequate,Satisfied
+49,Daily,Night,Safe,No,Inadequate,Dissatisfied
+37,Monthly,Evening,Very Unsafe,No,Inadequate,Neutral
+57,Rarely,Night,Very Unsafe,No,Inadequate,Dissatisfied
+28,Daily,Night,Very Safe,Yes,Adequate,Dissatisfied
+23,Rarely,Morning,Safe,No,Inadequate,Satisfied
+20,Monthly,Morning,Very Safe,No,Adequate,Satisfied
+20,Daily,Night,Neutral,Yes,Inadequate,Satisfied
+29,Daily,Afternoon,Very Unsafe,No,Adequate,Satisfied
+21,Daily,Night,Very Safe,No,Inadequate,Dissatisfied
+59,Daily,Evening,Safe,No,Inadequate,Neutral
+49,Daily,Afternoon,Very Safe,No,Adequate,Satisfied
+34,Rarely,Afternoon,Very Unsafe,No,Adequate,Dissatisfied
+51,Daily,Afternoon,Safe,No,Adequate,Neutral
+46,Weekly,Afternoon,Very Safe,Yes,Inadequate,Satisfied
+44,Daily,Night,Unsafe,No,Inadequate,Dissatisfied
+57,Weekly,Evening,Very Safe,Yes,Inadequate,Dissatisfied
+34,Daily,Night,Very Safe,No,Inadequate,Neutral
+55,Weekly,Afternoon,Very Safe,No,Adequate,Dissatisfied
+34,Monthly,Evening,Safe,No,Adequate,Satisfied
+29,Weekly,Afternoon,Very Unsafe,No,Inadequate,Satisfied
+59,Weekly,Morning,Safe,No,Adequate,Dissatisfied
+23,Weekly,Evening,Very Unsafe,No,Adequate,Neutral
+31,Rarely,Afternoon,Safe,No,Inadequate,Neutral
+19,Daily,Night,Neutral,Yes,Inadequate,Neutral
+33,Rarely,Morning,Neutral,No,Adequate,Satisfied
+41,Daily,Afternoon,Neutral,No,Adequate,Dissatisfied
+40,Rarely,Morning,Very Unsafe,Yes,Adequate,Dissatisfied
+32,Daily,Morning,Very Safe,No,Adequate,Neutral
+52,Monthly,Evening,Safe,No,Inadequate,Satisfied
+30,Monthly,Evening,Very Safe,No,Inadequate,Neutral
+54,Weekly,Evening,Unsafe,No,Adequate,Dissatisfied
+58,Rarely,Afternoon,Very Unsafe,No,Inadequate,Dissatisfied
+22,Weekly,Afternoon,Very Unsafe,No,Inadequate,Neutral
+44,Daily,Evening,Safe,Yes,Adequate,Neutral
+18,Monthly,Night,Unsafe,No,Inadequate,Satisfied
+48,Daily,Morning,Neutral,No,Adequate,Satisfied
+28,Daily,Afternoon,Very Unsafe,No,Adequate,Dissatisfied
+50,Monthly,Morning,Very Safe,Yes,Inadequate,Satisfied
+19,Rarely,Afternoon,Unsafe,No,Inadequate,Satisfied
+32,Weekly,Afternoon,Safe,No,Inadequate,Dissatisfied
+52,Weekly,Morning,Safe,No,Inadequate,Neutral
+23,Daily,Night,Neutral,No,Inadequate,Neutral
+33,Monthly,Afternoon,Very Safe,Yes,Inadequate,Neutral
+27,Weekly,Afternoon,Very Safe,No,Adequate,Dissatisfied
+29,Weekly,Night,Neutral,No,Adequate,Satisfied
+28,Daily,Evening,Unsafe,No,Inadequate,Neutral
+52,Weekly,Afternoon,Unsafe,No,Inadequate,Dissatisfied
+31,Monthly,Afternoon,Very Safe,No,Adequate,Neutral
+23,Weekly,Morning,Neutral,No,Inadequate,Neutral
+22,Monthly,Afternoon,Very Safe,No,Inadequate,Dissatisfied
+50,Daily,Night,Neutral,No,Inadequate,Satisfied
+52,Weekly,Afternoon,Safe,No,Adequate,Satisfied
+53,Rarely,Afternoon,Unsafe,No,Adequate,Satisfied
+39,Monthly,Afternoon,Unsafe,No,Inadequate,Dissatisfied
+58,Daily,Night,Safe,No,Inadequate,Dissatisfied
+55,Rarely,Morning,Unsafe,No,Inadequate,Neutral
+43,Rarely,Evening,Very Safe,No,Adequate,Neutral
+59,Rarely,Evening,Neutral,No,Inadequate,Neutral
+38,Monthly,Morning,Unsafe,No,Inadequate,Dissatisfied
+57,Daily,Afternoon,Neutral,No,Inadequate,Neutral
+40,Weekly,Afternoon,Unsafe,Yes,Inadequate,Neutral
+54,Monthly,Afternoon,Very Safe,No,Adequate,Satisfied
+40,Monthly,Night,Very Unsafe,No,Adequate,Dissatisfied
+22,Rarely,Night,Neutral,Yes,Inadequate,Dissatisfied
+37,Rarely,Night,Very Unsafe,No,Inadequate,Dissatisfied
+43,Weekly,Night,Unsafe,No,Adequate,Dissatisfied
+19,Monthly,Morning,Very Safe,No,Adequate,Dissatisfied
+31,Daily,Night,Very Unsafe,No,Inadequate,Neutral
+40,Monthly,Morning,Unsafe,No,Adequate,Neutral
+52,Weekly,Evening,Safe,Yes,Inadequate,Dissatisfied
+46,Monthly,Evening,Unsafe,Yes,Inadequate,Neutral
+50,Rarely,Morning,Very Safe,No,Adequate,Satisfied
+35,Rarely,Evening,Safe,No,Inadequate,Satisfied
+49,Rarely,Morning,Safe,No,Inadequate,Dissatisfied
+44,Daily,Night,Neutral,No,Inadequate,Neutral
+45,Rarely,Night,Safe,No,Adequate,Neutral
+44,Daily,Morning,Neutral,No,Adequate,Satisfied
+18,Rarely,Evening,Safe,No,Inadequate,Neutral
+43,Weekly,Night,Safe,No,Adequate,Satisfied
+22,Weekly,Evening,Safe,No,Adequate,Dissatisfied
+25,Monthly,Night,Safe,No,Adequate,Satisfied
+27,Daily,Night,Unsafe,No,Inadequate,Dissatisfied
+19,Daily,Afternoon,Very Safe,No,Adequate,Dissatisfied
+57,Weekly,Evening,Unsafe,No,Inadequate,Neutral
+34,Rarely,Morning,Safe,No,Inadequate,Dissatisfied
+34,Weekly,Evening,Very Safe,No,Adequate,Neutral
+37,Weekly,Night,Neutral,No,Inadequate,Dissatisfied
+55,Monthly,Morning,Very Safe,Yes,Adequate,Satisfied
+47,Daily,Night,Very Safe,Yes,Inadequate,Satisfied
+37,Rarely,Evening,Very Unsafe,No,Inadequate,Satisfied
+58,Rarely,Evening,Unsafe,No,Inadequate,Satisfied
+59,Daily,Afternoon,Very Safe,Yes,Inadequate,Neutral
+36,Monthly,Afternoon,Very Safe,No,Adequate,Neutral
+37,Daily,Morning,Safe,Yes,Adequate,Dissatisfied
+43,Daily,Morning,Neutral,No,Adequate,Satisfied
+54,Daily,Evening,Safe,No,Adequate,Dissatisfied
+47,Rarely,Night,Very Safe,No,Inadequate,Neutral
+47,Weekly,Night,Very Safe,No,Adequate,Satisfied
+47,Monthly,Morning,Unsafe,No,Adequate,Neutral
+38,Weekly,Night,Very Unsafe,No,Inadequate,Satisfied
+44,Daily,Afternoon,Unsafe,No,Inadequate,Neutral
+25,Rarely,Evening,Safe,No,Adequate,Neutral
+29,Monthly,Morning,Very Safe,Yes,Adequate,Satisfied
+50,Rarely,Afternoon,Unsafe,No,Adequate,Dissatisfied
+26,Monthly,Evening,Very Safe,No,Inadequate,Neutral
+58,Daily,Night,Safe,No,Adequate,Neutral
+28,Weekly,Morning,Neutral,No,Adequate,Satisfied
+43,Rarely,Night,Unsafe,No,Inadequate,Satisfied
+37,Weekly,Evening,Unsafe,No,Adequate,Satisfied
+39,Weekly,Evening,Safe,No,Inadequate,Satisfied
+45,Daily,Night,Very Unsafe,No,Adequate,Dissatisfied
+41,Weekly,Afternoon,Neutral,No,Inadequate,Satisfied
+42,Daily,Evening,Safe,Yes,Inadequate,Dissatisfied
+38,Weekly,Evening,Safe,No,Adequate,Satisfied
+28,Weekly,Morning,Neutral,Yes,Inadequate,Satisfied
+27,Monthly,Night,Very Unsafe,No,Inadequate,Neutral
+49,Monthly,Morning,Neutral,No,Inadequate,Neutral
+47,Monthly,Morning,Unsafe,No,Adequate,Neutral
+21,Daily,Night,Unsafe,No,Inadequate,Neutral
+52,Weekly,Afternoon,Safe,No,Inadequate,Dissatisfied
+19,Monthly,Evening,Safe,No,Inadequate,Dissatisfied
+26,Weekly,Afternoon,Safe,No,Inadequate,Dissatisfied
+58,Rarely,Night,Neutral,No,Inadequate,Neutral
+46,Monthly,Night,Unsafe,Yes,Inadequate,Dissatisfied
+51,Monthly,Morning,Very Unsafe,No,Inadequate,Neutral
+44,Monthly,Morning,Very Safe,No,Adequate,Dissatisfied
+56,Daily,Afternoon,Unsafe,No,Inadequate,Dissatisfied
+50,Rarely,Morning,Neutral,No,Inadequate,Neutral
+53,Weekly,Night,Very Unsafe,No,Inadequate,Neutral
+56,Monthly,Night,Very Unsafe,No,Inadequate,Satisfied
+38,Monthly,Afternoon,Unsafe,No,Adequate,Satisfied
+20,Monthly,Night,Neutral,No,Adequate,Satisfied
+34,Weekly,Evening,Unsafe,No,Adequate,Neutral
+34,Rarely,Afternoon,Neutral,Yes,Inadequate,Satisfied
+57,Monthly,Morning,Safe,No,Inadequate,Dissatisfied
+44,Weekly,Evening,Very Safe,No,Adequate,Dissatisfied
+47,Rarely,Morning,Very Safe,No,Inadequate,Satisfied
+53,Rarely,Afternoon,Safe,No,Inadequate,Satisfied
+34,Daily,Evening,Very Unsafe,No,Adequate,Neutral
+59,Monthly,Night,Unsafe,No,Inadequate,Satisfied
+30,Rarely,Morning,Very Safe,No,Adequate,Dissatisfied
+49,Monthly,Evening,Unsafe,No,Adequate,Dissatisfied
+30,Weekly,Afternoon,Very Safe,No,Inadequate,Satisfied
+21,Monthly,Morning,Safe,No,Inadequate,Satisfied
+38,Daily,Night,Very Safe,Yes,Adequate,Neutral
+24,Daily,Morning,Very Unsafe,Yes,Adequate,Satisfied
+59,Weekly,Night,Very Unsafe,No,Inadequate,Satisfied
+30,Rarely,Morning,Safe,No,Inadequate,Neutral
+45,Weekly,Afternoon,Unsafe,No,Adequate,Satisfied
+54,Rarely,Evening,Very Unsafe,No,Inadequate,Satisfied
+22,Weekly,Night,Very Unsafe,No,Inadequate,Dissatisfied
+49,Rarely,Afternoon,Neutral,No,Adequate,Satisfied
+44,Monthly,Morning,Neutral,No,Inadequate,Dissatisfied
+27,Monthly,Evening,Very Safe,Yes,Inadequate,Satisfied
+43,Weekly,Afternoon,Very Unsafe,No,Inadequate,Dissatisfied
+45,Rarely,Morning,Unsafe,No,Adequate,Dissatisfied
+45,Weekly,Night,Safe,No,Inadequate,Satisfied
+46,Weekly,Afternoon,Very Safe,No,Adequate,Dissatisfied
+38,Weekly,Evening,Safe,Yes,Adequate,Satisfied
+32,Monthly,Morning,Neutral,No,Inadequate,Dissatisfied
+19,Weekly,Night,Very Safe,Yes,Inadequate,Satisfied
+25,Rarely,Afternoon,Very Safe,No,Adequate,Neutral
+53,Monthly,Evening,Very Safe,No,Adequate,Neutral
+53,Rarely,Afternoon,Very Unsafe,No,Inadequate,Neutral
+18,Rarely,Evening,Very Safe,No,Inadequate,Neutral
+37,Monthly,Night,Safe,No,Inadequate,Dissatisfied
+55,Monthly,Night,Very Unsafe,No,Inadequate,Neutral
+24,Rarely,Afternoon,Very Unsafe,No,Inadequate,Satisfied
+44,Weekly,Morning,Very Safe,No,Inadequate,Neutral
+53,Rarely,Afternoon,Neutral,No,Inadequate,Dissatisfied
+45,Rarely,Afternoon,Very Unsafe,No,Adequate,Satisfied
+56,Monthly,Evening,Very Unsafe,No,Inadequate,Dissatisfied
+46,Rarely,Night,Unsafe,No,Adequate,Dissatisfied
+18,Daily,Afternoon,Safe,Yes,Inadequate,Dissatisfied
+40,Daily,Morning,Neutral,Yes,Adequate,Dissatisfied
+47,Weekly,Night,Very Unsafe,No,Inadequate,Neutral
+41,Weekly,Morning,Neutral,No,Inadequate,Satisfied
+31,Monthly,Afternoon,Very Unsafe,No,Adequate,Dissatisfied
+34,Daily,Evening,Unsafe,No,Inadequate,Neutral
+33,Monthly,Night,Neutral,No,Adequate,Satisfied
+33,Daily,Evening,Neutral,Yes,Inadequate,Dissatisfied
+57,Monthly,Afternoon,Neutral,No,Adequate,Neutral
+58,Rarely,Morning,Neutral,No,Adequate,Satisfied
+54,Monthly,Morning,Neutral,No,Adequate,Satisfied
+38,Monthly,Afternoon,Very Safe,No,Inadequate,Dissatisfied
+45,Rarely,Night,Very Unsafe,No,Inadequate,Satisfied
+57,Weekly,Afternoon,Unsafe,No,Inadequate,Neutral
+43,Daily,Morning,Safe,No,Inadequate,Neutral
+52,Monthly,Morning,Very Safe,Yes,Inadequate,Satisfied
+54,Daily,Night,Safe,No,Inadequate,Neutral
+39,Rarely,Evening,Neutral,No,Adequate,Dissatisfied
+19,Weekly,Afternoon,Very Safe,No,Inadequate,Neutral
+28,Rarely,Night,Very Unsafe,No,Adequate,Dissatisfied
+38,Rarely,Morning,Very Safe,No,Inadequate,Dissatisfied
+55,Weekly,Night,Unsafe,No,Inadequate,Dissatisfied
+39,Monthly,Afternoon,Unsafe,No,Adequate,Neutral
+29,Monthly,Evening,Very Unsafe,No,Inadequate,Dissatisfied
+31,Daily,Morning,Neutral,No,Adequate,Neutral
+31,Rarely,Afternoon,Neutral,No,Inadequate,Dissatisfied
+49,Weekly,Afternoon,Very Unsafe,No,Adequate,Dissatisfied
+27,Weekly,Night,Very Safe,No,Inadequate,Neutral
+58,Daily,Evening,Very Safe,No,Inadequate,Dissatisfied
+20,Monthly,Afternoon,Safe,No,Adequate,Satisfied
+36,Monthly,Night,Neutral,Yes,Adequate,Neutral
+33,Rarely,Evening,Neutral,No,Inadequate,Neutral
+35,Rarely,Morning,Safe,No,Adequate,Dissatisfied
+42,Daily,Afternoon,Very Safe,No,Inadequate,Satisfied
+23,Monthly,Night,Unsafe,No,Adequate,Neutral
